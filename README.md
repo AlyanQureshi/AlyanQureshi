@@ -54,8 +54,9 @@ Welcome to my GitHub profile! I’m a passionate developer and multi-disciplinar
 ---
 
 ## 📫 **Connect with Me**  
-- **Socials:** *(Insert your socials here)*  
-
+- **Socials:** 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-alyan-qureshi-701988292/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alyanq1034@gmail.com)
 ---
 
 ## ⚡ **Fun Fact**  
