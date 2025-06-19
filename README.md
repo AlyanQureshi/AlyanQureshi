@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I’m a passionate developer and multi-disciplinar
 ## 👀 **About Me**  
 - 🌍 **From:** Pakistan 🇵🇰  
 - 💼 **Career Goals:**  
-  - **Software Development:** Skilled in building robust and scalable applications.  
-  - **Law:** Fascinated by legal frameworks and their impact on society.  
+  - **Software Development:** Skilled in building robust and scalable applications.    
 - 🏃 **Athletics Enthusiast:** Sports and fitness are my second passion!  
 
 ---
