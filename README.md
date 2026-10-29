@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I’m a passionate developer and multi-disciplinar
 
 ## 💞️ **Looking to Collaborate On**  
 - Software development projects that align with my expertise in **full-stack development**, **cloud computing**, or **embedded systems**.  
-- Exciting interdisciplinary projects merging **law** and **technology**.  
+- Exciting interdisciplinary projects merging **Devops** and **Embedded Systems**.  
 
 ---
 
