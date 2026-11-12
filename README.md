@@ -1,5 +1,5 @@
 
-# Hi! I’m **Alyan Qureshi**.
+# Hi! I’m **Alyan Qureshi**
 
 Welcome to my GitHub profile! I’m a passionate developer and multi-disciplinary learner who thrives at the intersection of technology, creativity, and ambition. Here's a little about me:  
 
