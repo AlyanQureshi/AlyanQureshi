@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I’m a passionate developer and multi-disciplinar
 ## 📚 **Learning & Growth**  
 - 🌱 Continuously improving through courses on platforms like **Udemy**.  
 - 🛠️ Exploring new technologies and frameworks to stay ahead in software development.  
-- ⚖️ Deeply invested in pursuing **law** while advancing my **tech career**.  
+- ⚖️ Deeply invested in pursuing **DevOps** while advancing my skills in **data science**.  
 
 ---
 
