@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! I’m a passionate developer and multi-disciplinary learner who thrives at the intersection of technology, creativity, and ambition. Here's a little about me:  
 
 ## 👀 **About Me**  
-- Love to be outside
+- Love to be outside hiking
 - 💼 **Career Goals:**  
   - **Software Development:** Skilled in building robust and scalable applications.    
 - 🏃 **Athletics Enthusiast:** Sports and fitness are my second passion!  
